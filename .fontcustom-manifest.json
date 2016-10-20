@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "edd4576cef8222d259461c5a099950274e7313aca7c6dcc01a1398d1feea3df2",
-    "current": "edd4576cef8222d259461c5a099950274e7313aca7c6dcc01a1398d1feea3df2"
+    "previous": "e1095d820bce32b6a4108956892001ce09a0fc68a85b0b3a25681bdf1e9baf96",
+    "current": "e1095d820bce32b6a4108956892001ce09a0fc68a85b0b3a25681bdf1e9baf96"
   },
   "fonts": [
     "fonts/tristicons.ttf",
@@ -111,15 +111,18 @@
       "_tristicons.scss": "scss",
       "css": "fonts",
       "fonts": "fonts",
+      "index.html": ".",
       "preview": "fonts"
     },
-    "preprocessor_path": null,
+    "preprocessor_path": "fonts",
     "quiet": false,
     "templates": [
+      "index.html",
       "_tristicons.scss"
     ]
   },
   "templates": [
+    "./index.html",
     "scss/_tristicons.scss"
   ]
 }

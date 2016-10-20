@@ -1,0 +1,103 @@
+//
+// Icon Font: tristicons
+//
+
+@font-face {
+  font-family: "tristicons";
+  src: url("./tristicons.eot");
+  src: url("./tristicons.eot?#iefix") format("embedded-opentype"),
+       url("./tristicons.woff") format("woff"),
+       url("./tristicons.ttf") format("truetype"),
+       url("./tristicons.svg#tristicons") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "tristicons";
+    src: url("./tristicons.svg#tristicons") format("svg");
+  }
+}
+
+@mixin tristicon {
+  display: inline-block;
+  font-family: "tristicons";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+}
+
+@mixin tristicons-everything {
+  .tristicon-bubble:before,
+.tristicon-check-circle:before,
+.tristicon-chevron-down:before,
+.tristicon-chevron-left:before,
+.tristicon-chevron-right:before,
+.tristicon-chevron-up:before,
+.tristicon-circle:before,
+.tristicon-cross:before,
+.tristicon-cross-circle:before,
+.tristicon-facebook:before,
+.tristicon-life-saver:before,
+.tristicon-lock:before,
+.tristicon-made-with:before,
+.tristicon-mail:before,
+.tristicon-mango-chutney:before,
+.tristicon-open:before,
+.tristicon-pen:before,
+.tristicon-phone:before,
+.tristicon-trash:before,
+.tristicon-twitter:before {
+    @include tristicon;
+  }
+}
+
+.tristicon-bubble:before { content: "\f100"; }
+.tristicon-check-circle:before { content: "\f101"; }
+.tristicon-chevron-down:before { content: "\f102"; }
+.tristicon-chevron-left:before { content: "\f103"; }
+.tristicon-chevron-right:before { content: "\f104"; }
+.tristicon-chevron-up:before { content: "\f105"; }
+.tristicon-circle:before { content: "\f106"; }
+.tristicon-cross:before { content: "\f107"; }
+.tristicon-cross-circle:before { content: "\f108"; }
+.tristicon-facebook:before { content: "\f109"; }
+.tristicon-life-saver:before { content: "\f10a"; }
+.tristicon-lock:before { content: "\f10b"; }
+.tristicon-made-with:before { content: "\f10c"; }
+.tristicon-mail:before { content: "\f10d"; }
+.tristicon-mango-chutney:before { content: "\f10e"; }
+.tristicon-open:before { content: "\f10f"; }
+.tristicon-pen:before { content: "\f110"; }
+.tristicon-phone:before { content: "\f111"; }
+.tristicon-trash:before { content: "\f112"; }
+.tristicon-twitter:before { content: "\f113"; }
+
+$tristicon-bubble: "\f100";
+$tristicon-check-circle: "\f101";
+$tristicon-chevron-down: "\f102";
+$tristicon-chevron-left: "\f103";
+$tristicon-chevron-right: "\f104";
+$tristicon-chevron-up: "\f105";
+$tristicon-circle: "\f106";
+$tristicon-cross: "\f107";
+$tristicon-cross-circle: "\f108";
+$tristicon-facebook: "\f109";
+$tristicon-life-saver: "\f10a";
+$tristicon-lock: "\f10b";
+$tristicon-made-with: "\f10c";
+$tristicon-mail: "\f10d";
+$tristicon-mango-chutney: "\f10e";
+$tristicon-open: "\f10f";
+$tristicon-pen: "\f110";
+$tristicon-phone: "\f111";
+$tristicon-trash: "\f112";
+$tristicon-twitter: "\f113";

@@ -1,0 +1,19 @@
+//
+// Icon Font: <%= font_name %>
+//
+
+<%= font_face(path: @font_path_alt) %>
+
+@mixin tristicon {
+<%= glyph_properties %>
+}
+
+@mixin tristicons-everything {
+  <%= glyph_selectors %> {
+    @include tristicon;
+  }
+}
+
+<%= glyphs %>
+<% @glyphs.each do |name, value| %>
+$tristicon-<%= name.to_s %>: "\<%= value[:codepoint].to_s(16) %>";<% end %>

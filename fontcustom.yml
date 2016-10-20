@@ -50,8 +50,8 @@ input:
   templates: src/templates
 
 output:
-  fonts: tristicons/fonts
-  _tristicons.scss: tristicons/scss
+  fonts: fonts
+  _tristicons.scss: scss
 
 
 # -----------------------------------------------------------------------------

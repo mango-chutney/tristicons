@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "4f15651509279de2639bc500a655714b21e6facbfcdbd9b8ebef7cf325d3669d",
-    "current": "4f15651509279de2639bc500a655714b21e6facbfcdbd9b8ebef7cf325d3669d"
+    "previous": "edd4576cef8222d259461c5a099950274e7313aca7c6dcc01a1398d1feea3df2",
+    "current": "edd4576cef8222d259461c5a099950274e7313aca7c6dcc01a1398d1feea3df2"
   },
   "fonts": [
-    "tristicons/fonts/tristicons.ttf",
-    "tristicons/fonts/tristicons.svg",
-    "tristicons/fonts/tristicons.woff",
-    "tristicons/fonts/tristicons.eot"
+    "fonts/tristicons.ttf",
+    "fonts/tristicons.svg",
+    "fonts/tristicons.woff",
+    "fonts/tristicons.eot"
   ],
   "glyphs": {
     "bubble": {
@@ -108,10 +108,10 @@
     },
     "no_hash": true,
     "output": {
-      "_tristicons.scss": "tristicons/scss",
-      "css": "tristicons/fonts",
-      "fonts": "tristicons/fonts",
-      "preview": "tristicons/fonts"
+      "_tristicons.scss": "scss",
+      "css": "fonts",
+      "fonts": "fonts",
+      "preview": "fonts"
     },
     "preprocessor_path": null,
     "quiet": false,
@@ -120,6 +120,6 @@
     ]
   },
   "templates": [
-    "tristicons/scss/_tristicons.scss"
+    "scss/_tristicons.scss"
   ]
 }

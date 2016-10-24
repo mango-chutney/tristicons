@@ -14,7 +14,7 @@ $tristicons-line-height-base: 1 !default;
 
 @mixin tristicon {
   display: inline-block;
-  font: normal normal normal #{$tristicons-font-size-base} / #{$tristicons-line-height-base} <%= font_name %>;
+  font: normal normal normal #{$tristicons-font-size-base} <%= font_name %>;
   font-size: inherit;
   text-rendering: auto;
   -webkit-font-smoothing: antialiased;

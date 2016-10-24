@@ -1,23 +1,19 @@
 $tristicons-font-path:        "../fonts" !default;
 $tristicons-font-size-base:   14px !default;
 $tristicons-line-height-base: 1 !default;
-$tristicons-border-color:     #eee !default;
-$tristicons-inverse:          #fff !default;
-$tristicons-li-width:         (30em / 14) !default;
 
 @font-face {
   font-family: "tristicons";
-  src: url('#{$tristicons-font-path}/tristicons.eot');
-  src: url('#{$tristicons-font-path}/tristicons.eot?#iefix') format('embedded-opentype'),
-  url('#{$tristicons-font-path}/tristicons.woff2') format('woff2'),
-  url('#{$tristicons-font-path}/tristicons.woff') format('woff'),
-  url('#{$tristicons-font-path}/tristicons.ttf') format('truetype'),
-  url('#{$tristicons-font-path}/tristicons.svg#tristicons') format('svg');
+  src: url("#{$tristicons-font-path}/tristicons.eot");
+  src: url("#{$tristicons-font-path}/tristicons.eot?#iefix") format("embedded-opentype"),
+  url("#{$tristicons-font-path}/tristicons.woff") format("woff"),
+  url("#{$tristicons-font-path}/tristicons.ttf") format("truetype"),
+  url("#{$tristicons-font-path}/tristicons.svg#tristicons") format("svg");
 }
 
 @mixin tristicon {
   display: inline-block;
-  font: normal normal normal #{$tristicons-font-size-base} / #{$tristicons-line-height-base} tristicons;
+  font: normal normal normal #{$tristicons-font-size-base} tristicons;
   font-size: inherit;
   text-rendering: auto;
   -webkit-font-smoothing: antialiased;

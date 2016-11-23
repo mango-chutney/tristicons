@@ -20,30 +20,8 @@ $tristicons-line-height-base: 1 !default;
   -moz-osx-font-smoothing: grayscale;
 }
 
-@mixin tristicons-everything {
-  .tristicon-bubble:before,
-.tristicon-check-circle:before,
-.tristicon-chevron-down:before,
-.tristicon-chevron-left:before,
-.tristicon-chevron-right:before,
-.tristicon-chevron-up:before,
-.tristicon-circle:before,
-.tristicon-cross:before,
-.tristicon-cross-circle:before,
-.tristicon-facebook:before,
-.tristicon-life-saver:before,
-.tristicon-loading:before,
-.tristicon-lock:before,
-.tristicon-made-with:before,
-.tristicon-mail:before,
-.tristicon-mango-chutney:before,
-.tristicon-open:before,
-.tristicon-pen:before,
-.tristicon-phone:before,
-.tristicon-trash:before,
-.tristicon-twitter:before {
-    @include tristicon;
-  }
+.tristicon {
+  @include tristicon;
 }
 
 .tristicons-spin {

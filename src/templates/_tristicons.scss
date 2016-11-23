@@ -20,10 +20,8 @@ $tristicons-line-height-base: 1 !default;
   -moz-osx-font-smoothing: grayscale;
 }
 
-@mixin tristicons-everything {
-  <%= glyph_selectors %> {
-    @include tristicon;
-  }
+.tristicon {
+  @include tristicon;
 }
 
 .tristicons-spin {

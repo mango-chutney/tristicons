@@ -43,6 +43,8 @@ $tristicons-line-height-base: 1 !default;
 }
 
 .tristicon-bubble:before { content: "\f100"; }
+.tristicon-calendar:before { content: "\f115"; }
+.tristicon-camera:before { content: "\f116"; }
 .tristicon-check-circle:before { content: "\f101"; }
 .tristicon-chevron-down:before { content: "\f102"; }
 .tristicon-chevron-left:before { content: "\f103"; }
@@ -51,6 +53,7 @@ $tristicons-line-height-base: 1 !default;
 .tristicon-circle:before { content: "\f106"; }
 .tristicon-cross:before { content: "\f107"; }
 .tristicon-cross-circle:before { content: "\f108"; }
+.tristicon-dollars:before { content: "\f117"; }
 .tristicon-facebook:before { content: "\f109"; }
 .tristicon-life-saver:before { content: "\f10a"; }
 .tristicon-loading:before { content: "\f114"; }
@@ -58,13 +61,18 @@ $tristicons-line-height-base: 1 !default;
 .tristicon-made-with:before { content: "\f10c"; }
 .tristicon-mail:before { content: "\f10d"; }
 .tristicon-mango-chutney:before { content: "\f10e"; }
+.tristicon-megaphone:before { content: "\f118"; }
+.tristicon-notepad:before { content: "\f119"; }
 .tristicon-open:before { content: "\f10f"; }
 .tristicon-pen:before { content: "\f110"; }
 .tristicon-phone:before { content: "\f111"; }
+.tristicon-shopping-cart:before { content: "\f11a"; }
 .tristicon-trash:before { content: "\f112"; }
 .tristicon-twitter:before { content: "\f113"; }
 
 $tristicon-bubble: "\f100";
+$tristicon-calendar: "\f115";
+$tristicon-camera: "\f116";
 $tristicon-check-circle: "\f101";
 $tristicon-chevron-down: "\f102";
 $tristicon-chevron-left: "\f103";
@@ -73,6 +81,7 @@ $tristicon-chevron-up: "\f105";
 $tristicon-circle: "\f106";
 $tristicon-cross: "\f107";
 $tristicon-cross-circle: "\f108";
+$tristicon-dollars: "\f117";
 $tristicon-facebook: "\f109";
 $tristicon-life-saver: "\f10a";
 $tristicon-loading: "\f114";
@@ -80,8 +89,11 @@ $tristicon-lock: "\f10b";
 $tristicon-made-with: "\f10c";
 $tristicon-mail: "\f10d";
 $tristicon-mango-chutney: "\f10e";
+$tristicon-megaphone: "\f118";
+$tristicon-notepad: "\f119";
 $tristicon-open: "\f10f";
 $tristicon-pen: "\f110";
 $tristicon-phone: "\f111";
+$tristicon-shopping-cart: "\f11a";
 $tristicon-trash: "\f112";
 $tristicon-twitter: "\f113";

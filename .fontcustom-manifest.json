@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "e91b97003889f99ad32d8044c614e318308c9b7212ec95eaa3d249fd6b7f01e0",
-    "current": "e91b97003889f99ad32d8044c614e318308c9b7212ec95eaa3d249fd6b7f01e0"
+    "previous": "f513e747c659cf27007d05e627f6fff9e92c0a8467adf567d7c8b1d40892220e",
+    "current": "f513e747c659cf27007d05e627f6fff9e92c0a8467adf567d7c8b1d40892220e"
   },
   "fonts": [
     "fonts/tristicons.ttf",
@@ -13,6 +13,14 @@
     "bubble": {
       "codepoint": 61696,
       "source": "src/vectors/bubble.svg"
+    },
+    "calendar": {
+      "codepoint": 61717,
+      "source": "src/vectors/calendar.svg"
+    },
+    "camera": {
+      "codepoint": 61718,
+      "source": "src/vectors/camera.svg"
     },
     "check-circle": {
       "codepoint": 61697,
@@ -46,6 +54,10 @@
       "codepoint": 61704,
       "source": "src/vectors/cross-circle.svg"
     },
+    "dollars": {
+      "codepoint": 61719,
+      "source": "src/vectors/dollars.svg"
+    },
     "facebook": {
       "codepoint": 61705,
       "source": "src/vectors/facebook.svg"
@@ -74,6 +86,14 @@
       "codepoint": 61710,
       "source": "src/vectors/mango-chutney.svg"
     },
+    "megaphone": {
+      "codepoint": 61720,
+      "source": "src/vectors/megaphone.svg"
+    },
+    "notepad": {
+      "codepoint": 61721,
+      "source": "src/vectors/notepad.svg"
+    },
     "open": {
       "codepoint": 61711,
       "source": "src/vectors/open.svg"
@@ -85,6 +105,10 @@
     "phone": {
       "codepoint": 61713,
       "source": "src/vectors/phone.svg"
+    },
+    "shopping-cart": {
+      "codepoint": 61722,
+      "source": "src/vectors/shopping-cart.svg"
     },
     "trash": {
       "codepoint": 61714,

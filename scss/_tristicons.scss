@@ -45,6 +45,24 @@ $tristicons-line-height-base: 1 !default;
   }
 }
 
+.tristicons-spin {
+  animation: tristicons-spin 2s infinite linear;
+}
+
+.tristicons-pulse {
+  animation: tristicons-spin 1s infinite steps(8);
+}
+
+@keyframes tristicons-spin {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(359deg);
+  }
+}
+
 .tristicon-bubble:before { content: "\f100"; }
 .tristicon-check-circle:before { content: "\f101"; }
 .tristicon-chevron-down:before { content: "\f102"; }

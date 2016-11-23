@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "16c2c4984c45e81a84963a84b9aa0998cc47320a94d3acc4309acc443449ebb3",
-    "current": "16c2c4984c45e81a84963a84b9aa0998cc47320a94d3acc4309acc443449ebb3"
+    "previous": "38c326ca049d57e10d69ce28598bb010c97c39481aa3239a6fe7a439144a7f1d",
+    "current": "38c326ca049d57e10d69ce28598bb010c97c39481aa3239a6fe7a439144a7f1d"
   },
   "fonts": [
     "fonts/tristicons.ttf",
@@ -53,6 +53,10 @@
     "life-saver": {
       "codepoint": 61706,
       "source": "src/vectors/life-saver.svg"
+    },
+    "loading": {
+      "codepoint": 61716,
+      "source": "src/vectors/loading.svg"
     },
     "lock": {
       "codepoint": 61707,

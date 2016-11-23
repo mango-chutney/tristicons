@@ -32,6 +32,7 @@ $tristicons-line-height-base: 1 !default;
 .tristicon-cross-circle:before,
 .tristicon-facebook:before,
 .tristicon-life-saver:before,
+.tristicon-loading:before,
 .tristicon-lock:before,
 .tristicon-made-with:before,
 .tristicon-mail:before,
@@ -74,6 +75,7 @@ $tristicons-line-height-base: 1 !default;
 .tristicon-cross-circle:before { content: "\f108"; }
 .tristicon-facebook:before { content: "\f109"; }
 .tristicon-life-saver:before { content: "\f10a"; }
+.tristicon-loading:before { content: "\f114"; }
 .tristicon-lock:before { content: "\f10b"; }
 .tristicon-made-with:before { content: "\f10c"; }
 .tristicon-mail:before { content: "\f10d"; }
@@ -95,6 +97,7 @@ $tristicon-cross: "\f107";
 $tristicon-cross-circle: "\f108";
 $tristicon-facebook: "\f109";
 $tristicon-life-saver: "\f10a";
+$tristicon-loading: "\f114";
 $tristicon-lock: "\f10b";
 $tristicon-made-with: "\f10c";
 $tristicon-mail: "\f10d";

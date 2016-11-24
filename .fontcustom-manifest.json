@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "f513e747c659cf27007d05e627f6fff9e92c0a8467adf567d7c8b1d40892220e",
-    "current": "f513e747c659cf27007d05e627f6fff9e92c0a8467adf567d7c8b1d40892220e"
+    "previous": "0387b9daf2c8050a4ba278d1b5ef93cf5a2de28889fa8e725e9248c082f1f9a7",
+    "current": "0387b9daf2c8050a4ba278d1b5ef93cf5a2de28889fa8e725e9248c082f1f9a7"
   },
   "fonts": [
     "fonts/tristicons.ttf",
@@ -46,6 +46,10 @@
       "codepoint": 61702,
       "source": "src/vectors/circle.svg"
     },
+    "credit-card": {
+      "codepoint": 61723,
+      "source": "src/vectors/credit-card.svg"
+    },
     "cross": {
       "codepoint": 61703,
       "source": "src/vectors/cross.svg"
@@ -86,9 +90,13 @@
       "codepoint": 61710,
       "source": "src/vectors/mango-chutney.svg"
     },
-    "megaphone": {
-      "codepoint": 61720,
-      "source": "src/vectors/megaphone.svg"
+    "megaphone-outline": {
+      "codepoint": 61724,
+      "source": "src/vectors/megaphone-outline.svg"
+    },
+    "megaphone-solid": {
+      "codepoint": 61725,
+      "source": "src/vectors/megaphone-solid.svg"
     },
     "notepad": {
       "codepoint": 61721,
@@ -106,9 +114,17 @@
       "codepoint": 61713,
       "source": "src/vectors/phone.svg"
     },
+    "shirt": {
+      "codepoint": 61726,
+      "source": "src/vectors/shirt.svg"
+    },
     "shopping-cart": {
       "codepoint": 61722,
       "source": "src/vectors/shopping-cart.svg"
+    },
+    "tea-cup": {
+      "codepoint": 61727,
+      "source": "src/vectors/tea-cup.svg"
     },
     "trash": {
       "codepoint": 61714,
@@ -117,6 +133,10 @@
     "twitter": {
       "codepoint": 61715,
       "source": "src/vectors/twitter.svg"
+    },
+    "user": {
+      "codepoint": 61728,
+      "source": "src/vectors/user.svg"
     }
   },
   "options": {

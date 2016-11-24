@@ -51,6 +51,7 @@ $tristicons-line-height-base: 1 !default;
 .tristicon-chevron-right:before { content: "\f104"; }
 .tristicon-chevron-up:before { content: "\f105"; }
 .tristicon-circle:before { content: "\f106"; }
+.tristicon-credit-card:before { content: "\f11b"; }
 .tristicon-cross:before { content: "\f107"; }
 .tristicon-cross-circle:before { content: "\f108"; }
 .tristicon-dollars:before { content: "\f117"; }
@@ -61,14 +62,18 @@ $tristicons-line-height-base: 1 !default;
 .tristicon-made-with:before { content: "\f10c"; }
 .tristicon-mail:before { content: "\f10d"; }
 .tristicon-mango-chutney:before { content: "\f10e"; }
-.tristicon-megaphone:before { content: "\f118"; }
+.tristicon-megaphone-outline:before { content: "\f11c"; }
+.tristicon-megaphone-solid:before { content: "\f11d"; }
 .tristicon-notepad:before { content: "\f119"; }
 .tristicon-open:before { content: "\f10f"; }
 .tristicon-pen:before { content: "\f110"; }
 .tristicon-phone:before { content: "\f111"; }
+.tristicon-shirt:before { content: "\f11e"; }
 .tristicon-shopping-cart:before { content: "\f11a"; }
+.tristicon-tea-cup:before { content: "\f11f"; }
 .tristicon-trash:before { content: "\f112"; }
 .tristicon-twitter:before { content: "\f113"; }
+.tristicon-user:before { content: "\f120"; }
 
 $tristicon-bubble: "\f100";
 $tristicon-calendar: "\f115";
@@ -79,6 +84,7 @@ $tristicon-chevron-left: "\f103";
 $tristicon-chevron-right: "\f104";
 $tristicon-chevron-up: "\f105";
 $tristicon-circle: "\f106";
+$tristicon-credit-card: "\f11b";
 $tristicon-cross: "\f107";
 $tristicon-cross-circle: "\f108";
 $tristicon-dollars: "\f117";
@@ -89,11 +95,15 @@ $tristicon-lock: "\f10b";
 $tristicon-made-with: "\f10c";
 $tristicon-mail: "\f10d";
 $tristicon-mango-chutney: "\f10e";
-$tristicon-megaphone: "\f118";
+$tristicon-megaphone-outline: "\f11c";
+$tristicon-megaphone-solid: "\f11d";
 $tristicon-notepad: "\f119";
 $tristicon-open: "\f10f";
 $tristicon-pen: "\f110";
 $tristicon-phone: "\f111";
+$tristicon-shirt: "\f11e";
 $tristicon-shopping-cart: "\f11a";
+$tristicon-tea-cup: "\f11f";
 $tristicon-trash: "\f112";
 $tristicon-twitter: "\f113";
+$tristicon-user: "\f120";

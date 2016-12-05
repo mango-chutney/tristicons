@@ -16,6 +16,7 @@ $tristicons-line-height-base: 1 !default;
   font: normal normal normal #{$tristicons-font-size-base} <%= font_name %>;
   font-size: inherit;
   text-rendering: auto;
+  vertical-align: middle;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }

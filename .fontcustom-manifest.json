@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "3815df7a600e802b9ef2670cc36c03510df5c7d932ba491469db3797e85b9b12",
-    "current": "3815df7a600e802b9ef2670cc36c03510df5c7d932ba491469db3797e85b9b12"
+    "previous": "04d95b6b6835170f91d6a3907e7d79c1c556405fc7ab04a1beb662275d1807f1",
+    "current": "04d95b6b6835170f91d6a3907e7d79c1c556405fc7ab04a1beb662275d1807f1"
   },
   "fonts": [
     "fonts/tristicons.ttf",
@@ -10,9 +10,17 @@
     "fonts/tristicons.eot"
   ],
   "glyphs": {
+    "apple": {
+      "codepoint": 61729,
+      "source": "src/vectors/apple.svg"
+    },
     "bubble": {
       "codepoint": 61696,
       "source": "src/vectors/bubble.svg"
+    },
+    "burger": {
+      "codepoint": 61735,
+      "source": "src/vectors/burger.svg"
     },
     "calendar": {
       "codepoint": 61717,
@@ -46,6 +54,10 @@
       "codepoint": 61702,
       "source": "src/vectors/circle.svg"
     },
+    "cloud": {
+      "codepoint": 61731,
+      "source": "src/vectors/cloud.svg"
+    },
     "credit-card": {
       "codepoint": 61723,
       "source": "src/vectors/credit-card.svg"
@@ -65,6 +77,14 @@
     "facebook": {
       "codepoint": 61705,
       "source": "src/vectors/facebook.svg"
+    },
+    "file": {
+      "codepoint": 61732,
+      "source": "src/vectors/file.svg"
+    },
+    "heart": {
+      "codepoint": 61733,
+      "source": "src/vectors/heart.svg"
     },
     "life-saver": {
       "codepoint": 61706,
@@ -122,9 +142,17 @@
       "codepoint": 61722,
       "source": "src/vectors/shopping-cart.svg"
     },
+    "star": {
+      "codepoint": 61734,
+      "source": "src/vectors/star.svg"
+    },
     "tea-cup": {
       "codepoint": 61727,
       "source": "src/vectors/tea-cup.svg"
+    },
+    "team": {
+      "codepoint": 61730,
+      "source": "src/vectors/team.svg"
     },
     "trash": {
       "codepoint": 61714,

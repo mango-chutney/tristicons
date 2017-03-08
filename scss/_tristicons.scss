@@ -48,6 +48,7 @@ $tristicons-line-height-base: 1 !default;
 .tristicon-burger:before { content: "\f127"; }
 .tristicon-calendar:before { content: "\f115"; }
 .tristicon-camera:before { content: "\f116"; }
+.tristicon-camera-solid:before { content: "\f128"; }
 .tristicon-check-circle:before { content: "\f101"; }
 .tristicon-chevron-down:before { content: "\f102"; }
 .tristicon-chevron-left:before { content: "\f103"; }
@@ -63,6 +64,7 @@ $tristicons-line-height-base: 1 !default;
 .tristicon-file:before { content: "\f124"; }
 .tristicon-heart:before { content: "\f125"; }
 .tristicon-life-saver:before { content: "\f10a"; }
+.tristicon-linkedin:before { content: "\f129"; }
 .tristicon-loading:before { content: "\f114"; }
 .tristicon-lock:before { content: "\f10b"; }
 .tristicon-made-with:before { content: "\f10c"; }
@@ -82,12 +84,14 @@ $tristicons-line-height-base: 1 !default;
 .tristicon-trash:before { content: "\f112"; }
 .tristicon-twitter:before { content: "\f113"; }
 .tristicon-user:before { content: "\f120"; }
+.tristicon-youtube:before { content: "\f12a"; }
 
 $tristicon-apple: "\f121";
 $tristicon-bubble: "\f100";
 $tristicon-burger: "\f127";
 $tristicon-calendar: "\f115";
 $tristicon-camera: "\f116";
+$tristicon-camera-solid: "\f128";
 $tristicon-check-circle: "\f101";
 $tristicon-chevron-down: "\f102";
 $tristicon-chevron-left: "\f103";
@@ -103,6 +107,7 @@ $tristicon-facebook: "\f109";
 $tristicon-file: "\f124";
 $tristicon-heart: "\f125";
 $tristicon-life-saver: "\f10a";
+$tristicon-linkedin: "\f129";
 $tristicon-loading: "\f114";
 $tristicon-lock: "\f10b";
 $tristicon-made-with: "\f10c";
@@ -122,3 +127,4 @@ $tristicon-team: "\f122";
 $tristicon-trash: "\f112";
 $tristicon-twitter: "\f113";
 $tristicon-user: "\f120";
+$tristicon-youtube: "\f12a";

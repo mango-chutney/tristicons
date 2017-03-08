@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "04d95b6b6835170f91d6a3907e7d79c1c556405fc7ab04a1beb662275d1807f1",
-    "current": "04d95b6b6835170f91d6a3907e7d79c1c556405fc7ab04a1beb662275d1807f1"
+    "previous": "b0f6b9b09e89cdbca5aaf74aff1103ba241ba276c51e65fccd5a83d2bbe6768f",
+    "current": "b0f6b9b09e89cdbca5aaf74aff1103ba241ba276c51e65fccd5a83d2bbe6768f"
   },
   "fonts": [
     "fonts/tristicons.ttf",
@@ -29,6 +29,10 @@
     "camera": {
       "codepoint": 61718,
       "source": "src/vectors/camera.svg"
+    },
+    "camera-solid": {
+      "codepoint": 61736,
+      "source": "src/vectors/camera-solid.svg"
     },
     "check-circle": {
       "codepoint": 61697,
@@ -89,6 +93,10 @@
     "life-saver": {
       "codepoint": 61706,
       "source": "src/vectors/life-saver.svg"
+    },
+    "linkedin": {
+      "codepoint": 61737,
+      "source": "src/vectors/linkedin.svg"
     },
     "loading": {
       "codepoint": 61716,
@@ -165,6 +173,10 @@
     "user": {
       "codepoint": 61728,
       "source": "src/vectors/user.svg"
+    },
+    "youtube": {
+      "codepoint": 61738,
+      "source": "src/vectors/youtube.svg"
     }
   },
   "options": {

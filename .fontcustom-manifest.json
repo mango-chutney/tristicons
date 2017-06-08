@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "ab833b6836661989edb8ce8bbb2c8182dff94eaa290e4a6ad8e22cdca9d26ffb",
-    "current": "ab833b6836661989edb8ce8bbb2c8182dff94eaa290e4a6ad8e22cdca9d26ffb"
+    "previous": "db159b7eb45b5c2600e6e8e05a381552c813dc561454efddd753c74c69e0fb8c",
+    "current": "db159b7eb45b5c2600e6e8e05a381552c813dc561454efddd753c74c69e0fb8c"
   },
   "fonts": [
     "fonts/tristicons.ttf",
@@ -61,6 +61,10 @@
     "cloud": {
       "codepoint": 61731,
       "source": "src/vectors/cloud.svg"
+    },
+    "coins": {
+      "codepoint": 61740,
+      "source": "src/vectors/coins.svg"
     },
     "credit-card": {
       "codepoint": 61723,

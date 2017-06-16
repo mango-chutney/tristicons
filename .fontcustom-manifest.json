@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "5b856cab1016f6eeec754c1f5a232fc65bd9b7db525f8a68d29ffe4e17bad30b",
-    "current": "5b856cab1016f6eeec754c1f5a232fc65bd9b7db525f8a68d29ffe4e17bad30b"
+    "previous": "ff951bad767b2c8291c93a1be2eded734192d4ffea988f38d22f8395d1e4ee33",
+    "current": "ff951bad767b2c8291c93a1be2eded734192d4ffea988f38d22f8395d1e4ee33"
   },
   "fonts": [
     "fonts/tristicons.ttf",
@@ -153,6 +153,10 @@
     "shirt": {
       "codepoint": 61726,
       "source": "src/vectors/shirt.svg"
+    },
+    "shoe": {
+      "codepoint": 61741,
+      "source": "src/vectors/shoe.svg"
     },
     "shopping-cart": {
       "codepoint": 61722,

@@ -44,6 +44,7 @@ $tristicons-line-height-base: 1 !default;
 }
 
 .tristicon-apple:before { content: "\f121"; }
+.tristicon-briefcase:before { content: "\f12e"; }
 .tristicon-bubble:before { content: "\f100"; }
 .tristicon-burger:before { content: "\f127"; }
 .tristicon-calendar:before { content: "\f115"; }
@@ -57,13 +58,16 @@ $tristicons-line-height-base: 1 !default;
 .tristicon-circle:before { content: "\f106"; }
 .tristicon-cloud:before { content: "\f123"; }
 .tristicon-coins:before { content: "\f12c"; }
+.tristicon-coupon:before { content: "\f12f"; }
 .tristicon-credit-card:before { content: "\f11b"; }
 .tristicon-cross:before { content: "\f107"; }
 .tristicon-cross-circle:before { content: "\f108"; }
 .tristicon-dollars:before { content: "\f117"; }
 .tristicon-facebook:before { content: "\f109"; }
 .tristicon-file:before { content: "\f124"; }
+.tristicon-graph:before { content: "\f130"; }
 .tristicon-heart:before { content: "\f125"; }
+.tristicon-home:before { content: "\f131"; }
 .tristicon-info:before { content: "\f12b"; }
 .tristicon-life-saver:before { content: "\f10a"; }
 .tristicon-linkedin:before { content: "\f129"; }
@@ -84,12 +88,15 @@ $tristicons-line-height-base: 1 !default;
 .tristicon-star:before { content: "\f126"; }
 .tristicon-tea-cup:before { content: "\f11f"; }
 .tristicon-team:before { content: "\f122"; }
+.tristicon-team-alt:before { content: "\f132"; }
 .tristicon-trash:before { content: "\f112"; }
 .tristicon-twitter:before { content: "\f113"; }
 .tristicon-user:before { content: "\f120"; }
+.tristicon-world:before { content: "\f133"; }
 .tristicon-youtube:before { content: "\f12a"; }
 
 $tristicon-apple: "\f121";
+$tristicon-briefcase: "\f12e";
 $tristicon-bubble: "\f100";
 $tristicon-burger: "\f127";
 $tristicon-calendar: "\f115";
@@ -103,13 +110,16 @@ $tristicon-chevron-up: "\f105";
 $tristicon-circle: "\f106";
 $tristicon-cloud: "\f123";
 $tristicon-coins: "\f12c";
+$tristicon-coupon: "\f12f";
 $tristicon-credit-card: "\f11b";
 $tristicon-cross: "\f107";
 $tristicon-cross-circle: "\f108";
 $tristicon-dollars: "\f117";
 $tristicon-facebook: "\f109";
 $tristicon-file: "\f124";
+$tristicon-graph: "\f130";
 $tristicon-heart: "\f125";
+$tristicon-home: "\f131";
 $tristicon-info: "\f12b";
 $tristicon-life-saver: "\f10a";
 $tristicon-linkedin: "\f129";
@@ -130,7 +140,9 @@ $tristicon-shopping-cart: "\f11a";
 $tristicon-star: "\f126";
 $tristicon-tea-cup: "\f11f";
 $tristicon-team: "\f122";
+$tristicon-team-alt: "\f132";
 $tristicon-trash: "\f112";
 $tristicon-twitter: "\f113";
 $tristicon-user: "\f120";
+$tristicon-world: "\f133";
 $tristicon-youtube: "\f12a";

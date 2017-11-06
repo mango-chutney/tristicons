@@ -1,18 +1,23 @@
 {
   "checksum": {
-    "previous": "ff951bad767b2c8291c93a1be2eded734192d4ffea988f38d22f8395d1e4ee33",
-    "current": "ff951bad767b2c8291c93a1be2eded734192d4ffea988f38d22f8395d1e4ee33"
+    "previous": "8ffa5681c735c5365ba30d6a41e298ee34657901cdbbc7d199b0dc85b2d371d6",
+    "current": "8ffa5681c735c5365ba30d6a41e298ee34657901cdbbc7d199b0dc85b2d371d6"
   },
   "fonts": [
     "fonts/tristicons.ttf",
     "fonts/tristicons.svg",
     "fonts/tristicons.woff",
-    "fonts/tristicons.eot"
+    "fonts/tristicons.eot",
+    "fonts/tristicons.woff2"
   ],
   "glyphs": {
     "apple": {
       "codepoint": 61729,
       "source": "src/vectors/apple.svg"
+    },
+    "briefcase": {
+      "codepoint": 61742,
+      "source": "src/vectors/briefcase.svg"
     },
     "bubble": {
       "codepoint": 61696,
@@ -66,6 +71,10 @@
       "codepoint": 61740,
       "source": "src/vectors/coins.svg"
     },
+    "coupon": {
+      "codepoint": 61743,
+      "source": "src/vectors/coupon.svg"
+    },
     "credit-card": {
       "codepoint": 61723,
       "source": "src/vectors/credit-card.svg"
@@ -90,9 +99,17 @@
       "codepoint": 61732,
       "source": "src/vectors/file.svg"
     },
+    "graph": {
+      "codepoint": 61744,
+      "source": "src/vectors/graph.svg"
+    },
     "heart": {
       "codepoint": 61733,
       "source": "src/vectors/heart.svg"
+    },
+    "home": {
+      "codepoint": 61745,
+      "source": "src/vectors/home.svg"
     },
     "info": {
       "codepoint": 61739,
@@ -174,6 +191,10 @@
       "codepoint": 61730,
       "source": "src/vectors/team.svg"
     },
+    "team-alt": {
+      "codepoint": 61746,
+      "source": "src/vectors/team-alt.svg"
+    },
     "trash": {
       "codepoint": 61714,
       "source": "src/vectors/trash.svg"
@@ -186,6 +207,10 @@
       "codepoint": 61728,
       "source": "src/vectors/user.svg"
     },
+    "world": {
+      "codepoint": 61747,
+      "source": "src/vectors/world.svg"
+    },
     "youtube": {
       "codepoint": 61738,
       "source": "src/vectors/youtube.svg"
@@ -194,6 +219,8 @@
   "options": {
     "autowidth": false,
     "config": "fontcustom.yml",
+    "copyright": "",
+    "css3": false,
     "css_selector": ".tristicon-{{glyph}}",
     "debug": false,
     "font_ascent": 448,

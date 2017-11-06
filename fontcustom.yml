@@ -53,6 +53,8 @@ output:
   fonts: fonts
   index.html: .
   _tristicons.scss: scss
+  icons.json: js
+  tristicons.css: css
 
 
 # -----------------------------------------------------------------------------
@@ -71,7 +73,9 @@ output:
 
 templates: [
   index.html,
-  _tristicons.scss
+  _tristicons.scss,
+  tristicons.css,
+  icons.json
 ]
 
 preprocessor_path: fonts

@@ -5,7 +5,10 @@
   "main": "index.js",
   "private": true,
   "scripts": {
-    "start": "fontcustom compile"
+    "fontcustom": "fontcustom compile",
+    "prettier:css": "prettier --write \"./css/tristicons.css\"",
+    "prettier:js": "prettier --write \"./js/icons.json\"",
+    "start": "npm-run-all --sequential fontcustom prettier:css prettier:js"
   },
   "repository": {
     "type": "git",
@@ -16,5 +19,21 @@
   "bugs": {
     "url": "https://github.com/mango-chutney/tristicons/issues"
   },
-  "homepage": "https://github.com/mango-chutney/tristicons#readme"
+  "homepage": "https://github.com/mango-chutney/tristicons#readme",
+  "dependencies": {
+    "npm-run-all": "^4.1.1",
+    "prettier": "^1.7.4"
+  },
+  "prettier": {
+    "trailingComma": "all",
+    "singleQuote": true,
+    "overrides": [
+      {
+        "files": ["css/tristicons.css", "js/icons.json"],
+        "options": {
+          "trailingComma": "es5"
+        }
+      }
+    ]
+  }
 }

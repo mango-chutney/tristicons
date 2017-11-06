@@ -2,7 +2,7 @@
   "name": "tristicons",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "js/index.js",
   "private": true,
   "scripts": {
     "fontcustom": "fontcustom compile",

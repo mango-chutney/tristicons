@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "4c8f4f04a52d24bac9cec940a2b25a1425415bd5a0c3d3c3726be75444f79eec",
-    "current": "4c8f4f04a52d24bac9cec940a2b25a1425415bd5a0c3d3c3726be75444f79eec"
+    "previous": "95312dbc2a9895b1852404ebc13db31a5ee90d03351c96ac0d8df6edf733b10a",
+    "current": "95312dbc2a9895b1852404ebc13db31a5ee90d03351c96ac0d8df6edf733b10a"
   },
   "fonts": [
     "fonts/tristicons.ttf",
@@ -87,6 +87,10 @@
       "codepoint": 61704,
       "source": "src/vectors/cross-circle.svg"
     },
+    "dollar-dollar": {
+      "codepoint": 61748,
+      "source": "src/vectors/dollar-dollar.svg"
+    },
     "dollars": {
       "codepoint": 61719,
       "source": "src/vectors/dollars.svg"
@@ -95,9 +99,17 @@
       "codepoint": 61705,
       "source": "src/vectors/facebook.svg"
     },
-    "file": {
-      "codepoint": 61732,
-      "source": "src/vectors/file.svg"
+    "file-outline": {
+      "codepoint": 61754,
+      "source": "src/vectors/file-outline.svg"
+    },
+    "file-solid": {
+      "codepoint": 61755,
+      "source": "src/vectors/file-solid.svg"
+    },
+    "gear": {
+      "codepoint": 61750,
+      "source": "src/vectors/gear.svg"
     },
     "graph": {
       "codepoint": 61744,
@@ -167,6 +179,10 @@
       "codepoint": 61713,
       "source": "src/vectors/phone.svg"
     },
+    "plus": {
+      "codepoint": 61751,
+      "source": "src/vectors/plus.svg"
+    },
     "shirt": {
       "codepoint": 61726,
       "source": "src/vectors/shirt.svg"
@@ -183,6 +199,10 @@
       "codepoint": 61734,
       "source": "src/vectors/star.svg"
     },
+    "star-alt": {
+      "codepoint": 61752,
+      "source": "src/vectors/star-alt.svg"
+    },
     "tea-cup": {
       "codepoint": 61727,
       "source": "src/vectors/tea-cup.svg"
@@ -194,6 +214,10 @@
     "team-alt": {
       "codepoint": 61746,
       "source": "src/vectors/team-alt.svg"
+    },
+    "time": {
+      "codepoint": 61753,
+      "source": "src/vectors/time.svg"
     },
     "trash": {
       "codepoint": 61714,

@@ -62,9 +62,12 @@ $tristicons-line-height-base: 1 !default;
 .tristicon-credit-card:before { content: "\f11b"; }
 .tristicon-cross:before { content: "\f107"; }
 .tristicon-cross-circle:before { content: "\f108"; }
+.tristicon-dollar-dollar:before { content: "\f134"; }
 .tristicon-dollars:before { content: "\f117"; }
 .tristicon-facebook:before { content: "\f109"; }
-.tristicon-file:before { content: "\f124"; }
+.tristicon-file-outline:before { content: "\f13a"; }
+.tristicon-file-solid:before { content: "\f13b"; }
+.tristicon-gear:before { content: "\f136"; }
 .tristicon-graph:before { content: "\f130"; }
 .tristicon-heart:before { content: "\f125"; }
 .tristicon-home:before { content: "\f131"; }
@@ -82,13 +85,16 @@ $tristicons-line-height-base: 1 !default;
 .tristicon-open:before { content: "\f10f"; }
 .tristicon-pen:before { content: "\f110"; }
 .tristicon-phone:before { content: "\f111"; }
+.tristicon-plus:before { content: "\f137"; }
 .tristicon-shirt:before { content: "\f11e"; }
 .tristicon-shoe:before { content: "\f12d"; }
 .tristicon-shopping-cart:before { content: "\f11a"; }
 .tristicon-star:before { content: "\f126"; }
+.tristicon-star-alt:before { content: "\f138"; }
 .tristicon-tea-cup:before { content: "\f11f"; }
 .tristicon-team:before { content: "\f122"; }
 .tristicon-team-alt:before { content: "\f132"; }
+.tristicon-time:before { content: "\f139"; }
 .tristicon-trash:before { content: "\f112"; }
 .tristicon-twitter:before { content: "\f113"; }
 .tristicon-user:before { content: "\f120"; }
@@ -114,9 +120,12 @@ $tristicon-coupon: "\f12f";
 $tristicon-credit-card: "\f11b";
 $tristicon-cross: "\f107";
 $tristicon-cross-circle: "\f108";
+$tristicon-dollar-dollar: "\f134";
 $tristicon-dollars: "\f117";
 $tristicon-facebook: "\f109";
-$tristicon-file: "\f124";
+$tristicon-file-outline: "\f13a";
+$tristicon-file-solid: "\f13b";
+$tristicon-gear: "\f136";
 $tristicon-graph: "\f130";
 $tristicon-heart: "\f125";
 $tristicon-home: "\f131";
@@ -134,13 +143,16 @@ $tristicon-notepad: "\f119";
 $tristicon-open: "\f10f";
 $tristicon-pen: "\f110";
 $tristicon-phone: "\f111";
+$tristicon-plus: "\f137";
 $tristicon-shirt: "\f11e";
 $tristicon-shoe: "\f12d";
 $tristicon-shopping-cart: "\f11a";
 $tristicon-star: "\f126";
+$tristicon-star-alt: "\f138";
 $tristicon-tea-cup: "\f11f";
 $tristicon-team: "\f122";
 $tristicon-team-alt: "\f132";
+$tristicon-time: "\f139";
 $tristicon-trash: "\f112";
 $tristicon-twitter: "\f113";
 $tristicon-user: "\f120";

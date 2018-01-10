@@ -64,14 +64,23 @@
 .tristicon-cross-circle:before {
   content: '\f108';
 }
+.tristicon-dollar-dollar:before {
+  content: '\f134';
+}
 .tristicon-dollars:before {
   content: '\f117';
 }
 .tristicon-facebook:before {
   content: '\f109';
 }
-.tristicon-file:before {
-  content: '\f124';
+.tristicon-file-outline:before {
+  content: '\f13a';
+}
+.tristicon-file-solid:before {
+  content: '\f13b';
+}
+.tristicon-gear:before {
+  content: '\f136';
 }
 .tristicon-graph:before {
   content: '\f130';
@@ -124,6 +133,9 @@
 .tristicon-phone:before {
   content: '\f111';
 }
+.tristicon-plus:before {
+  content: '\f137';
+}
 .tristicon-shirt:before {
   content: '\f11e';
 }
@@ -136,6 +148,9 @@
 .tristicon-star:before {
   content: '\f126';
 }
+.tristicon-star-alt:before {
+  content: '\f138';
+}
 .tristicon-tea-cup:before {
   content: '\f11f';
 }
@@ -144,6 +159,9 @@
 }
 .tristicon-team-alt:before {
   content: '\f132';
+}
+.tristicon-time:before {
+  content: '\f139';
 }
 .tristicon-trash:before {
   content: '\f112';

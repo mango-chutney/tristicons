@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "c835961a321ebee975b7fd0391492da36a7d46a17de50eaabc80bbc1fa01d2aa",
-    "current": "c835961a321ebee975b7fd0391492da36a7d46a17de50eaabc80bbc1fa01d2aa"
+    "previous": "5c6be41317a90b01a0ed6d8f95dfeeacecd7ba1268312dca885596e66a7b5a40",
+    "current": "5c6be41317a90b01a0ed6d8f95dfeeacecd7ba1268312dca885596e66a7b5a40"
   },
   "fonts": [
     "fonts/tristicons.ttf",
@@ -38,6 +38,10 @@
     "camera-solid": {
       "codepoint": 61736,
       "source": "src/vectors/camera-solid.svg"
+    },
+    "check": {
+      "codepoint": 61756,
+      "source": "src/vectors/check.svg"
     },
     "check-circle": {
       "codepoint": 61697,
@@ -83,9 +87,17 @@
       "codepoint": 61703,
       "source": "src/vectors/cross.svg"
     },
+    "cross-alt": {
+      "codepoint": 61757,
+      "source": "src/vectors/cross-alt.svg"
+    },
     "cross-circle": {
       "codepoint": 61704,
       "source": "src/vectors/cross-circle.svg"
+    },
+    "cross-circle-alt": {
+      "codepoint": 61758,
+      "source": "src/vectors/cross-circle-alt.svg"
     },
     "dollar-dollar": {
       "codepoint": 61748,
@@ -94,6 +106,10 @@
     "dollars": {
       "codepoint": 61719,
       "source": "src/vectors/dollars.svg"
+    },
+    "download": {
+      "codepoint": 61759,
+      "source": "src/vectors/download.svg"
     },
     "facebook": {
       "codepoint": 61705,
@@ -126,6 +142,10 @@
     "info": {
       "codepoint": 61739,
       "source": "src/vectors/info.svg"
+    },
+    "instagram": {
+      "codepoint": 61760,
+      "source": "src/vectors/instagram.svg"
     },
     "life-saver": {
       "codepoint": 61706,
@@ -162,6 +182,10 @@
     "megaphone-solid": {
       "codepoint": 61725,
       "source": "src/vectors/megaphone-solid.svg"
+    },
+    "minus": {
+      "codepoint": 61761,
+      "source": "src/vectors/minus.svg"
     },
     "notepad": {
       "codepoint": 61721,

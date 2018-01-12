@@ -28,6 +28,9 @@
 .tristicon-camera-solid:before {
   content: '\f128';
 }
+.tristicon-check:before {
+  content: '\f13c';
+}
 .tristicon-check-circle:before {
   content: '\f101';
 }
@@ -61,14 +64,23 @@
 .tristicon-cross:before {
   content: '\f107';
 }
+.tristicon-cross-alt:before {
+  content: '\f13d';
+}
 .tristicon-cross-circle:before {
   content: '\f108';
+}
+.tristicon-cross-circle-alt:before {
+  content: '\f13e';
 }
 .tristicon-dollar-dollar:before {
   content: '\f134';
 }
 .tristicon-dollars:before {
   content: '\f117';
+}
+.tristicon-download:before {
+  content: '\f13f';
 }
 .tristicon-facebook:before {
   content: '\f109';
@@ -93,6 +105,9 @@
 }
 .tristicon-info:before {
   content: '\f12b';
+}
+.tristicon-instagram:before {
+  content: '\f140';
 }
 .tristicon-life-saver:before {
   content: '\f10a';
@@ -120,6 +135,9 @@
 }
 .tristicon-megaphone-solid:before {
   content: '\f11d';
+}
+.tristicon-minus:before {
+  content: '\f141';
 }
 .tristicon-notepad:before {
   content: '\f119';

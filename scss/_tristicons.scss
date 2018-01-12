@@ -50,6 +50,7 @@ $tristicons-line-height-base: 1 !default;
 .tristicon-calendar:before { content: "\f115"; }
 .tristicon-camera:before { content: "\f116"; }
 .tristicon-camera-solid:before { content: "\f128"; }
+.tristicon-check:before { content: "\f13c"; }
 .tristicon-check-circle:before { content: "\f101"; }
 .tristicon-chevron-down:before { content: "\f102"; }
 .tristicon-chevron-left:before { content: "\f103"; }
@@ -61,9 +62,12 @@ $tristicons-line-height-base: 1 !default;
 .tristicon-coupon:before { content: "\f12f"; }
 .tristicon-credit-card:before { content: "\f11b"; }
 .tristicon-cross:before { content: "\f107"; }
+.tristicon-cross-alt:before { content: "\f13d"; }
 .tristicon-cross-circle:before { content: "\f108"; }
+.tristicon-cross-circle-alt:before { content: "\f13e"; }
 .tristicon-dollar-dollar:before { content: "\f134"; }
 .tristicon-dollars:before { content: "\f117"; }
+.tristicon-download:before { content: "\f13f"; }
 .tristicon-facebook:before { content: "\f109"; }
 .tristicon-file-outline:before { content: "\f13a"; }
 .tristicon-file-solid:before { content: "\f13b"; }
@@ -72,6 +76,7 @@ $tristicons-line-height-base: 1 !default;
 .tristicon-heart:before { content: "\f125"; }
 .tristicon-home:before { content: "\f131"; }
 .tristicon-info:before { content: "\f12b"; }
+.tristicon-instagram:before { content: "\f140"; }
 .tristicon-life-saver:before { content: "\f10a"; }
 .tristicon-linkedin:before { content: "\f129"; }
 .tristicon-loading:before { content: "\f114"; }
@@ -81,6 +86,7 @@ $tristicons-line-height-base: 1 !default;
 .tristicon-mango-chutney:before { content: "\f10e"; }
 .tristicon-megaphone-outline:before { content: "\f11c"; }
 .tristicon-megaphone-solid:before { content: "\f11d"; }
+.tristicon-minus:before { content: "\f141"; }
 .tristicon-notepad:before { content: "\f119"; }
 .tristicon-open:before { content: "\f10f"; }
 .tristicon-pen:before { content: "\f110"; }
@@ -108,6 +114,7 @@ $tristicon-burger: "\f127";
 $tristicon-calendar: "\f115";
 $tristicon-camera: "\f116";
 $tristicon-camera-solid: "\f128";
+$tristicon-check: "\f13c";
 $tristicon-check-circle: "\f101";
 $tristicon-chevron-down: "\f102";
 $tristicon-chevron-left: "\f103";
@@ -119,9 +126,12 @@ $tristicon-coins: "\f12c";
 $tristicon-coupon: "\f12f";
 $tristicon-credit-card: "\f11b";
 $tristicon-cross: "\f107";
+$tristicon-cross-alt: "\f13d";
 $tristicon-cross-circle: "\f108";
+$tristicon-cross-circle-alt: "\f13e";
 $tristicon-dollar-dollar: "\f134";
 $tristicon-dollars: "\f117";
+$tristicon-download: "\f13f";
 $tristicon-facebook: "\f109";
 $tristicon-file-outline: "\f13a";
 $tristicon-file-solid: "\f13b";
@@ -130,6 +140,7 @@ $tristicon-graph: "\f130";
 $tristicon-heart: "\f125";
 $tristicon-home: "\f131";
 $tristicon-info: "\f12b";
+$tristicon-instagram: "\f140";
 $tristicon-life-saver: "\f10a";
 $tristicon-linkedin: "\f129";
 $tristicon-loading: "\f114";
@@ -139,6 +150,7 @@ $tristicon-mail: "\f10d";
 $tristicon-mango-chutney: "\f10e";
 $tristicon-megaphone-outline: "\f11c";
 $tristicon-megaphone-solid: "\f11d";
+$tristicon-minus: "\f141";
 $tristicon-notepad: "\f119";
 $tristicon-open: "\f10f";
 $tristicon-pen: "\f110";

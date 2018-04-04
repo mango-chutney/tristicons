@@ -142,6 +142,9 @@
 .tristicon-mango-chutney:before {
   content: '\f10e';
 }
+.tristicon-medal:before {
+  content: '\f14e';
+}
 .tristicon-megaphone-outline:before {
   content: '\f11c';
 }

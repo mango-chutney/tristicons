@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "b3bca1626fa0725c2cae9f1569236f68faf3ab0791a3cb0e4e02eca4082ac51c",
-    "current": "b3bca1626fa0725c2cae9f1569236f68faf3ab0791a3cb0e4e02eca4082ac51c"
+    "previous": "05f928c42e2e074827484603e607864eb004afe29550e5179961aefbacd697c7",
+    "current": "05f928c42e2e074827484603e607864eb004afe29550e5179961aefbacd697c7"
   },
   "fonts": [
     "fonts/tristicons.ttf",
@@ -190,6 +190,10 @@
     "mango-chutney": {
       "codepoint": 61710,
       "source": "src/vectors/mango-chutney.svg"
+    },
+    "medal": {
+      "codepoint": 61774,
+      "source": "src/vectors/medal.svg"
     },
     "megaphone-outline": {
       "codepoint": 61724,

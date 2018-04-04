@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "5c6be41317a90b01a0ed6d8f95dfeeacecd7ba1268312dca885596e66a7b5a40",
-    "current": "5c6be41317a90b01a0ed6d8f95dfeeacecd7ba1268312dca885596e66a7b5a40"
+    "previous": "b3bca1626fa0725c2cae9f1569236f68faf3ab0791a3cb0e4e02eca4082ac51c",
+    "current": "b3bca1626fa0725c2cae9f1569236f68faf3ab0791a3cb0e4e02eca4082ac51c"
   },
   "fonts": [
     "fonts/tristicons.ttf",
@@ -18,6 +18,10 @@
     "briefcase": {
       "codepoint": 61742,
       "source": "src/vectors/briefcase.svg"
+    },
+    "briefcase-outline": {
+      "codepoint": 61762,
+      "source": "src/vectors/briefcase-outline.svg"
     },
     "bubble": {
       "codepoint": 61696,
@@ -127,9 +131,17 @@
       "codepoint": 61750,
       "source": "src/vectors/gear.svg"
     },
+    "gear-outline": {
+      "codepoint": 61764,
+      "source": "src/vectors/gear-outline.svg"
+    },
     "graph": {
       "codepoint": 61744,
       "source": "src/vectors/graph.svg"
+    },
+    "graph-outline": {
+      "codepoint": 61765,
+      "source": "src/vectors/graph-outline.svg"
     },
     "heart": {
       "codepoint": 61733,
@@ -146,6 +158,10 @@
     "instagram": {
       "codepoint": 61760,
       "source": "src/vectors/instagram.svg"
+    },
+    "juice-outline": {
+      "codepoint": 61766,
+      "source": "src/vectors/juice-outline.svg"
     },
     "life-saver": {
       "codepoint": 61706,
@@ -203,9 +219,17 @@
       "codepoint": 61713,
       "source": "src/vectors/phone.svg"
     },
+    "plane": {
+      "codepoint": 61767,
+      "source": "src/vectors/plane.svg"
+    },
     "plus": {
       "codepoint": 61751,
       "source": "src/vectors/plus.svg"
+    },
+    "radial-bar-outline": {
+      "codepoint": 61768,
+      "source": "src/vectors/radial-bar-outline.svg"
     },
     "shirt": {
       "codepoint": 61726,
@@ -239,6 +263,10 @@
       "codepoint": 61746,
       "source": "src/vectors/team-alt.svg"
     },
+    "team-outline": {
+      "codepoint": 61769,
+      "source": "src/vectors/team-outline.svg"
+    },
     "time": {
       "codepoint": 61753,
       "source": "src/vectors/time.svg"
@@ -247,6 +275,14 @@
       "codepoint": 61714,
       "source": "src/vectors/trash.svg"
     },
+    "trash-alt": {
+      "codepoint": 61770,
+      "source": "src/vectors/trash-alt.svg"
+    },
+    "trophy-outline": {
+      "codepoint": 61771,
+      "source": "src/vectors/trophy-outline.svg"
+    },
     "twitter": {
       "codepoint": 61715,
       "source": "src/vectors/twitter.svg"
@@ -254,6 +290,14 @@
     "user": {
       "codepoint": 61728,
       "source": "src/vectors/user.svg"
+    },
+    "user-add": {
+      "codepoint": 61772,
+      "source": "src/vectors/user-add.svg"
+    },
+    "user-outline": {
+      "codepoint": 61773,
+      "source": "src/vectors/user-outline.svg"
     },
     "world": {
       "codepoint": 61747,

@@ -13,6 +13,9 @@
 .tristicon-briefcase:before {
   content: '\f12e';
 }
+.tristicon-briefcase-outline:before {
+  content: '\f142';
+}
 .tristicon-bubble:before {
   content: '\f100';
 }
@@ -94,8 +97,14 @@
 .tristicon-gear:before {
   content: '\f136';
 }
+.tristicon-gear-outline:before {
+  content: '\f144';
+}
 .tristicon-graph:before {
   content: '\f130';
+}
+.tristicon-graph-outline:before {
+  content: '\f145';
 }
 .tristicon-heart:before {
   content: '\f125';
@@ -108,6 +117,9 @@
 }
 .tristicon-instagram:before {
   content: '\f140';
+}
+.tristicon-juice-outline:before {
+  content: '\f146';
 }
 .tristicon-life-saver:before {
   content: '\f10a';
@@ -151,8 +163,14 @@
 .tristicon-phone:before {
   content: '\f111';
 }
+.tristicon-plane:before {
+  content: '\f147';
+}
 .tristicon-plus:before {
   content: '\f137';
+}
+.tristicon-radial-bar-outline:before {
+  content: '\f148';
 }
 .tristicon-shirt:before {
   content: '\f11e';
@@ -178,17 +196,32 @@
 .tristicon-team-alt:before {
   content: '\f132';
 }
+.tristicon-team-outline:before {
+  content: '\f149';
+}
 .tristicon-time:before {
   content: '\f139';
 }
 .tristicon-trash:before {
   content: '\f112';
 }
+.tristicon-trash-alt:before {
+  content: '\f14a';
+}
+.tristicon-trophy-outline:before {
+  content: '\f14b';
+}
 .tristicon-twitter:before {
   content: '\f113';
 }
 .tristicon-user:before {
   content: '\f120';
+}
+.tristicon-user-add:before {
+  content: '\f14c';
+}
+.tristicon-user-outline:before {
+  content: '\f14d';
 }
 .tristicon-world:before {
   content: '\f133';

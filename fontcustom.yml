@@ -78,7 +78,7 @@ templates: [
   icons.json
 ]
 
-preprocessor_path: fonts
+preprocessor_path: ./dist/fonts
 
 # -----------------------------------------------------------------------------
 # Font Settings (defaults shown)

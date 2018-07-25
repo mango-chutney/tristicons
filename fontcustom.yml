@@ -46,15 +46,15 @@ no_hash: true
 # -----------------------------------------------------------------------------
 
 input:
-  vectors: src/vectors
-  templates: src/templates
+  vectors: vectors
+  templates: templates
 
 output:
-  fonts: fonts
+  fonts: dist/fonts
   index.html: .
-  _tristicons.scss: scss
-  icons.json: js
-  tristicons.css: css
+  _tristicons.scss: dist/scss
+  icons.json: dist/json
+  tristicons.css: dist/css
 
 
 # -----------------------------------------------------------------------------

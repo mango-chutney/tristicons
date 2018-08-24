@@ -34,6 +34,9 @@
 .tristicon-check:before {
   content: '\f108';
 }
+.tristicon-check-alt:before {
+  content: '\f14b';
+}
 .tristicon-check-circle:before {
   content: '\f109';
 }

@@ -1,9 +1,9 @@
 {
   "checksum": {
     "previous":
-      "40ea242a894375f46e7f06eeb601691722dcca3136be76fb44157b5217c84976",
+      "590db57535ea93bbf06c9f796b80f778933f234f499d38ed90df4b8ea8f8bd77",
     "current":
-      "40ea242a894375f46e7f06eeb601691722dcca3136be76fb44157b5217c84976"
+      "590db57535ea93bbf06c9f796b80f778933f234f499d38ed90df4b8ea8f8bd77"
   },
   "fonts": [
     "dist/fonts/tristicons.ttf",
@@ -48,6 +48,10 @@
     "check": {
       "codepoint": 61704,
       "source": "vectors/check.svg"
+    },
+    "check-alt": {
+      "codepoint": 61771,
+      "source": "vectors/check-alt.svg"
     },
     "check-circle": {
       "codepoint": 61705,

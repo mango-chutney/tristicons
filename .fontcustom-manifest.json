@@ -1,9 +1,9 @@
 {
   "checksum": {
     "previous":
-      "590db57535ea93bbf06c9f796b80f778933f234f499d38ed90df4b8ea8f8bd77",
+      "d9b770e5e9fe0376cdf0650c01e66cd713ecaafd5067ceeb9826b8c9b9d4cedf",
     "current":
-      "590db57535ea93bbf06c9f796b80f778933f234f499d38ed90df4b8ea8f8bd77"
+      "d9b770e5e9fe0376cdf0650c01e66cd713ecaafd5067ceeb9826b8c9b9d4cedf"
   },
   "fonts": [
     "dist/fonts/tristicons.ttf",
@@ -124,6 +124,10 @@
     "facebook": {
       "codepoint": 61722,
       "source": "vectors/facebook.svg"
+    },
+    "facebook-f": {
+      "codepoint": 61772,
+      "source": "vectors/facebook-f.svg"
     },
     "file-outline": {
       "codepoint": 61723,

@@ -91,6 +91,9 @@
 .tristicon-facebook:before {
   content: '\f11a';
 }
+.tristicon-facebook-f:before {
+  content: '\f14c';
+}
 .tristicon-file-outline:before {
   content: '\f11b';
 }

@@ -1,9 +1,9 @@
 {
   "checksum": {
     "previous":
-      "d9b770e5e9fe0376cdf0650c01e66cd713ecaafd5067ceeb9826b8c9b9d4cedf",
+      "bf369e201e72ac985336867e2c51e13502d61cdab1b79bee42837828368f504f",
     "current":
-      "d9b770e5e9fe0376cdf0650c01e66cd713ecaafd5067ceeb9826b8c9b9d4cedf"
+      "bf369e201e72ac985336867e2c51e13502d61cdab1b79bee42837828368f504f"
   },
   "fonts": [
     "dist/fonts/tristicons.ttf",
@@ -244,6 +244,10 @@
     "radial-bar-outline": {
       "codepoint": 61751,
       "source": "vectors/radial-bar-outline.svg"
+    },
+    "search": {
+      "codepoint": 61773,
+      "source": "vectors/search.svg"
     },
     "shirt": {
       "codepoint": 61752,

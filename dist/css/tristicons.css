@@ -181,6 +181,9 @@
 .tristicon-radial-bar-outline:before {
   content: '\f137';
 }
+.tristicon-search:before {
+  content: '\f14d';
+}
 .tristicon-shirt:before {
   content: '\f138';
 }

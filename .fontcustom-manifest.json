@@ -1,9 +1,9 @@
 {
   "checksum": {
     "previous":
-      "bf369e201e72ac985336867e2c51e13502d61cdab1b79bee42837828368f504f",
+      "f4c08fb4f0f0ef0690424aa1c3b3bb78b57d28455c0896a3b34e4c135a31ce39",
     "current":
-      "bf369e201e72ac985336867e2c51e13502d61cdab1b79bee42837828368f504f"
+      "f4c08fb4f0f0ef0690424aa1c3b3bb78b57d28455c0896a3b34e4c135a31ce39"
   },
   "fonts": [
     "dist/fonts/tristicons.ttf",
@@ -84,6 +84,10 @@
     "coins": {
       "codepoint": 61712,
       "source": "vectors/coins.svg"
+    },
+    "comments": {
+      "codepoint": 61774,
+      "source": "vectors/comments.svg"
     },
     "coupon": {
       "codepoint": 61713,

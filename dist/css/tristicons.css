@@ -43,14 +43,26 @@
 .tristicon-chevron-down:before {
   content: '\f10a';
 }
+.tristicon-chevron-down-alt:before {
+  content: '\f14f';
+}
 .tristicon-chevron-left:before {
   content: '\f10b';
+}
+.tristicon-chevron-left-alt:before {
+  content: '\f150';
 }
 .tristicon-chevron-right:before {
   content: '\f10c';
 }
+.tristicon-chevron-right-alt:before {
+  content: '\f151';
+}
 .tristicon-chevron-up:before {
   content: '\f10d';
+}
+.tristicon-chevron-up-alt:before {
+  content: '\f152';
 }
 .tristicon-circle:before {
   content: '\f10e';

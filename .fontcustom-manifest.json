@@ -1,9 +1,9 @@
 {
   "checksum": {
     "previous":
-      "f4c08fb4f0f0ef0690424aa1c3b3bb78b57d28455c0896a3b34e4c135a31ce39",
+      "cd183fade1a7b5a785feed60d58f9e4e3e55b5018cf58a80358a6b083a865dc7",
     "current":
-      "f4c08fb4f0f0ef0690424aa1c3b3bb78b57d28455c0896a3b34e4c135a31ce39"
+      "cd183fade1a7b5a785feed60d58f9e4e3e55b5018cf58a80358a6b083a865dc7"
   },
   "fonts": [
     "dist/fonts/tristicons.ttf",
@@ -61,17 +61,33 @@
       "codepoint": 61706,
       "source": "vectors/chevron-down.svg"
     },
+    "chevron-down-alt": {
+      "codepoint": 61775,
+      "source": "vectors/chevron-down-alt.svg"
+    },
     "chevron-left": {
       "codepoint": 61707,
       "source": "vectors/chevron-left.svg"
+    },
+    "chevron-left-alt": {
+      "codepoint": 61776,
+      "source": "vectors/chevron-left-alt.svg"
     },
     "chevron-right": {
       "codepoint": 61708,
       "source": "vectors/chevron-right.svg"
     },
+    "chevron-right-alt": {
+      "codepoint": 61777,
+      "source": "vectors/chevron-right-alt.svg"
+    },
     "chevron-up": {
       "codepoint": 61709,
       "source": "vectors/chevron-up.svg"
+    },
+    "chevron-up-alt": {
+      "codepoint": 61778,
+      "source": "vectors/chevron-up-alt.svg"
     },
     "circle": {
       "codepoint": 61710,

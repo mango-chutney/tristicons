@@ -1,9 +1,9 @@
 {
   "checksum": {
     "previous":
-      "cd183fade1a7b5a785feed60d58f9e4e3e55b5018cf58a80358a6b083a865dc7",
+      "c420e73f49802dca3e7a0bae9834ae90e0eb889e5d62f40ee1031c5bbc7be00b",
     "current":
-      "cd183fade1a7b5a785feed60d58f9e4e3e55b5018cf58a80358a6b083a865dc7"
+      "c420e73f49802dca3e7a0bae9834ae90e0eb889e5d62f40ee1031c5bbc7be00b"
   },
   "fonts": [
     "dist/fonts/tristicons.ttf",
@@ -165,6 +165,10 @@
       "codepoint": 61726,
       "source": "vectors/gear-outline.svg"
     },
+    "gift": {
+      "codepoint": 61779,
+      "source": "vectors/gift.svg"
+    },
     "graph": {
       "codepoint": 61727,
       "source": "vectors/graph.svg"
@@ -220,6 +224,10 @@
     "mango-chutney": {
       "codepoint": 61740,
       "source": "vectors/mango-chutney.svg"
+    },
+    "map-marker": {
+      "codepoint": 61780,
+      "source": "vectors/map-marker.svg"
     },
     "medal": {
       "codepoint": 61741,

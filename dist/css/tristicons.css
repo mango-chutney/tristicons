@@ -121,6 +121,9 @@
 .tristicon-gear-outline:before {
   content: '\f11e';
 }
+.tristicon-gift:before {
+  content: '\f153';
+}
 .tristicon-graph:before {
   content: '\f11f';
 }
@@ -162,6 +165,9 @@
 }
 .tristicon-mango-chutney:before {
   content: '\f12c';
+}
+.tristicon-map-marker:before {
+  content: '\f154';
 }
 .tristicon-medal:before {
   content: '\f12d';

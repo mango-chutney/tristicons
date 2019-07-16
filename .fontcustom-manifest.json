@@ -1,9 +1,9 @@
 {
   "checksum": {
     "previous":
-      "c420e73f49802dca3e7a0bae9834ae90e0eb889e5d62f40ee1031c5bbc7be00b",
+      "40da909664579ae344953674ecae4b1823ac9e54b5f949dad43cb7d0440bf8bc",
     "current":
-      "c420e73f49802dca3e7a0bae9834ae90e0eb889e5d62f40ee1031c5bbc7be00b"
+      "40da909664579ae344953674ecae4b1823ac9e54b5f949dad43cb7d0440bf8bc"
   },
   "fonts": [
     "dist/fonts/tristicons.ttf",
@@ -204,6 +204,10 @@
     "linkedin": {
       "codepoint": 61735,
       "source": "vectors/linkedin.svg"
+    },
+    "linkedin-in": {
+      "codepoint": 61781,
+      "source": "vectors/linkedin-in.svg"
     },
     "loading": {
       "codepoint": 61736,

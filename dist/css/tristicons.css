@@ -151,6 +151,9 @@
 .tristicon-linkedin:before {
   content: '\f127';
 }
+.tristicon-linkedin-in:before {
+  content: '\f155';
+}
 .tristicon-loading:before {
   content: '\f128';
 }

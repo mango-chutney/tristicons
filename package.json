@@ -5,8 +5,8 @@
   "main": "index.js",
   "private": true,
   "scripts": {
-    "lint": "./scripts/run-prettier.sh",
-    "start": "fontcustom compile --force && ./scripts/get-base64-respresentations.js && ./scripts/run-prettier.sh"
+    "prettier": "prettier  --write \"**/*.{js,json,md,php,css}\"",
+    "start": "fontcustom compile --force && ./scripts/get-base64-respresentations.js && yarn run prettier"
   },
   "repository": {
     "type": "git",
@@ -22,6 +22,10 @@
     "trailingComma": "all"
   },
   "devDependencies": {
-    "prettier": "^1.13.7"
+    "prettier": "^2.1.1"
+  },
+  "prettier": {
+    "trailingComma": "all",
+    "singleQuote": true
   }
 }

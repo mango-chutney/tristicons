@@ -1,0 +1,8 @@
+!dist/**/*.css
+!dist/**/*.eot
+!dist/**/*.json
+!dist/**/*.scss
+!dist/**/*.svg
+!dist/**/*.ttf
+!dist/**/*.woff
+!dist/**/*.woff2

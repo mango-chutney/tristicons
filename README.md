@@ -13,7 +13,5 @@ $ yarn add "https://github.com/mango-chutney/tristicons/archive/a8bfdd8.tar.gz"
 ## Hacking
 
 1.  Install
-    [Font Custom](https://github.com/FontCustom/fontcustom#installation). You
-    can use `nix-shell` in the root of this repo if you have Nix and `direnv`
-    installed.
+    [Font Custom](https://github.com/FontCustom/fontcustom#installation).
 2.  `yarn run start`

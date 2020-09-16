@@ -48,6 +48,7 @@ $tristicons-line-height-base: 1 !default;
 .tristicon-calendar:before { content: "\f105"; }
 .tristicon-camera:before { content: "\f106"; }
 .tristicon-camera-solid:before { content: "\f107"; }
+.tristicon-cat:before { content: "\f15f"; }
 .tristicon-check:before { content: "\f108"; }
 .tristicon-check-round:before { content: "\f156"; }
 .tristicon-check-round-circle:before { content: "\f157"; }
@@ -62,6 +63,7 @@ $tristicons-line-height-base: 1 !default;
 .tristicon-cross-circle:before { content: "\f115"; }
 .tristicon-cross-circle-round:before { content: "\f158"; }
 .tristicon-cross-round:before { content: "\f159"; }
+.tristicon-dog:before { content: "\f160"; }
 .tristicon-download:before { content: "\f119"; }
 .tristicon-facebook:before { content: "\f11a"; }
 .tristicon-facebook-square:before { content: "\f15a"; }
@@ -88,10 +90,12 @@ $tristicons-line-height-base: 1 !default;
 .tristicon-minus:before { content: "\f130"; }
 .tristicon-notepad:before { content: "\f131"; }
 .tristicon-open:before { content: "\f132"; }
+.tristicon-paw:before { content: "\f161"; }
 .tristicon-pen:before { content: "\f133"; }
 .tristicon-phone:before { content: "\f134"; }
 .tristicon-plane:before { content: "\f135"; }
 .tristicon-plus:before { content: "\f136"; }
+.tristicon-rabbit:before { content: "\f162"; }
 .tristicon-search:before { content: "\f14d"; }
 .tristicon-shopping-cart:before { content: "\f13a"; }
 .tristicon-star:before { content: "\f13b"; }
@@ -110,6 +114,7 @@ $tristicon-burger: "\f104";
 $tristicon-calendar: "\f105";
 $tristicon-camera: "\f106";
 $tristicon-camera-solid: "\f107";
+$tristicon-cat: "\f15f";
 $tristicon-check: "\f108";
 $tristicon-check-round: "\f156";
 $tristicon-check-round-circle: "\f157";
@@ -124,6 +129,7 @@ $tristicon-cross: "\f113";
 $tristicon-cross-circle: "\f115";
 $tristicon-cross-circle-round: "\f158";
 $tristicon-cross-round: "\f159";
+$tristicon-dog: "\f160";
 $tristicon-download: "\f119";
 $tristicon-facebook: "\f11a";
 $tristicon-facebook-square: "\f15a";
@@ -150,10 +156,12 @@ $tristicon-megaphone-solid: "\f12f";
 $tristicon-minus: "\f130";
 $tristicon-notepad: "\f131";
 $tristicon-open: "\f132";
+$tristicon-paw: "\f161";
 $tristicon-pen: "\f133";
 $tristicon-phone: "\f134";
 $tristicon-plane: "\f135";
 $tristicon-plus: "\f136";
+$tristicon-rabbit: "\f162";
 $tristicon-search: "\f14d";
 $tristicon-shopping-cart: "\f13a";
 $tristicon-star: "\f13b";

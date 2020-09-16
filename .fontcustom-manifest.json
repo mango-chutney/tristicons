@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "7bede4692918e9be4d235b93f4de205035020dd0fe3435f7624f9a763dd3ebf4",
-    "current": "7bede4692918e9be4d235b93f4de205035020dd0fe3435f7624f9a763dd3ebf4"
+    "previous": "b911acc31f3c90a85cdf5c5849c7af9c24bb72b43244aed42fe6124643f9d378",
+    "current": "b911acc31f3c90a85cdf5c5849c7af9c24bb72b43244aed42fe6124643f9d378"
   },
   "fonts": [
     "dist/fonts/tristicons.ttf",
@@ -30,6 +30,10 @@
     "camera-solid": {
       "codepoint": 61703,
       "source": "vectors/camera-solid.svg"
+    },
+    "cat": {
+      "codepoint": 61791,
+      "source": "vectors/cat.svg"
     },
     "check": {
       "codepoint": 61704,
@@ -86,6 +90,10 @@
     "cross-round": {
       "codepoint": 61785,
       "source": "vectors/cross-round.svg"
+    },
+    "dog": {
+      "codepoint": 61792,
+      "source": "vectors/dog.svg"
     },
     "download": {
       "codepoint": 61721,
@@ -191,6 +199,10 @@
       "codepoint": 61746,
       "source": "vectors/open.svg"
     },
+    "paw": {
+      "codepoint": 61793,
+      "source": "vectors/paw.svg"
+    },
     "pen": {
       "codepoint": 61747,
       "source": "vectors/pen.svg"
@@ -206,6 +218,10 @@
     "plus": {
       "codepoint": 61750,
       "source": "vectors/plus.svg"
+    },
+    "rabbit": {
+      "codepoint": 61794,
+      "source": "vectors/rabbit.svg"
     },
     "search": {
       "codepoint": 61773,

@@ -22,6 +22,9 @@
 .tristicon-camera-solid:before {
   content: '\f107';
 }
+.tristicon-cat:before {
+  content: '\f15f';
+}
 .tristicon-check:before {
   content: '\f108';
 }
@@ -63,6 +66,9 @@
 }
 .tristicon-cross-round:before {
   content: '\f159';
+}
+.tristicon-dog:before {
+  content: '\f160';
 }
 .tristicon-download:before {
   content: '\f119';
@@ -142,6 +148,9 @@
 .tristicon-open:before {
   content: '\f132';
 }
+.tristicon-paw:before {
+  content: '\f161';
+}
 .tristicon-pen:before {
   content: '\f133';
 }
@@ -153,6 +162,9 @@
 }
 .tristicon-plus:before {
   content: '\f136';
+}
+.tristicon-rabbit:before {
+  content: '\f162';
 }
 .tristicon-search:before {
   content: '\f14d';

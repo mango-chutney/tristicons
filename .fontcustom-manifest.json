@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "5253d4ab81bfc820e7eea9df229eca5bb285d10c90fed803c076e0becdb1fb92",
-    "current": "5253d4ab81bfc820e7eea9df229eca5bb285d10c90fed803c076e0becdb1fb92"
+    "previous": "7bede4692918e9be4d235b93f4de205035020dd0fe3435f7624f9a763dd3ebf4",
+    "current": "7bede4692918e9be4d235b93f4de205035020dd0fe3435f7624f9a763dd3ebf4"
   },
   "fonts": [
     "dist/fonts/tristicons.ttf",
@@ -99,6 +99,10 @@
       "codepoint": 61786,
       "source": "vectors/facebook-square.svg"
     },
+    "female": {
+      "codepoint": 61789,
+      "source": "vectors/female.svg"
+    },
     "file-outline": {
       "codepoint": 61723,
       "source": "vectors/file-outline.svg"
@@ -158,6 +162,10 @@
     "mail": {
       "codepoint": 61739,
       "source": "vectors/mail.svg"
+    },
+    "male": {
+      "codepoint": 61790,
+      "source": "vectors/male.svg"
     },
     "map-marker": {
       "codepoint": 61780,

@@ -73,6 +73,9 @@
 .tristicon-facebook-square:before {
   content: '\f15a';
 }
+.tristicon-female:before {
+  content: '\f15d';
+}
 .tristicon-file-outline:before {
   content: '\f11b';
 }
@@ -117,6 +120,9 @@
 }
 .tristicon-mail:before {
   content: '\f12b';
+}
+.tristicon-male:before {
+  content: '\f15e';
 }
 .tristicon-map-marker:before {
   content: '\f154';

@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "b911acc31f3c90a85cdf5c5849c7af9c24bb72b43244aed42fe6124643f9d378",
-    "current": "b911acc31f3c90a85cdf5c5849c7af9c24bb72b43244aed42fe6124643f9d378"
+    "previous": "acc929469d467ea41cefe0d273bfc51d2807b0e2ca22f7e42c5160c3043c04df",
+    "current": "acc929469d467ea41cefe0d273bfc51d2807b0e2ca22f7e42c5160c3043c04df"
   },
   "fonts": [
     "dist/fonts/tristicons.ttf",
@@ -118,6 +118,10 @@
     "file-solid": {
       "codepoint": 61724,
       "source": "vectors/file-solid.svg"
+    },
+    "filters": {
+      "codepoint": 61795,
+      "source": "vectors/filters.svg"
     },
     "gear": {
       "codepoint": 61725,

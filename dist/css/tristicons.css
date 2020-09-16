@@ -88,6 +88,9 @@
 .tristicon-file-solid:before {
   content: '\f11c';
 }
+.tristicon-filters:before {
+  content: '\f163';
+}
 .tristicon-gear:before {
   content: '\f11d';
 }

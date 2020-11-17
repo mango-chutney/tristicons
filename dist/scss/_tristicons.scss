@@ -44,6 +44,7 @@ $tristicons-line-height-base: 1 !default;
 }
 
 .tristicon-apple:before { content: "\f100"; }
+.tristicon-arrow:before { content: "\f15f"; }
 .tristicon-burger:before { content: "\f104"; }
 .tristicon-calendar:before { content: "\f105"; }
 .tristicon-camera:before { content: "\f106"; }
@@ -106,6 +107,7 @@ $tristicons-line-height-base: 1 !default;
 .tristicon-youtube:before { content: "\f14a"; }
 
 $tristicon-apple: "\f100";
+$tristicon-arrow: "\f15f";
 $tristicon-burger: "\f104";
 $tristicon-calendar: "\f105";
 $tristicon-camera: "\f106";

@@ -10,6 +10,9 @@
 .tristicon-apple:before {
   content: '\f100';
 }
+.tristicon-arrow:before {
+  content: '\f15f';
+}
 .tristicon-burger:before {
   content: '\f104';
 }

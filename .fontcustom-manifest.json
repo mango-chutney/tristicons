@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "d5ddb4e96da0a835174fb3d6723ee6fd0c8d505c52be9b9455dceb4fca6ded95",
-    "current": "d5ddb4e96da0a835174fb3d6723ee6fd0c8d505c52be9b9455dceb4fca6ded95"
+    "previous": "952a6fb54d29c0fbb391bb31f1fc8aa22e9af8b8b81f3b97f362921f6e183729",
+    "current": "952a6fb54d29c0fbb391bb31f1fc8aa22e9af8b8b81f3b97f362921f6e183729"
   },
   "fonts": [
     "dist/fonts/tristicons.ttf",
@@ -14,6 +14,10 @@
     "apple": {
       "codepoint": 61696,
       "source": "vectors/apple.svg"
+    },
+    "arrow": {
+      "codepoint": 61791,
+      "source": "vectors/arrow.svg"
     },
     "burger": {
       "codepoint": 61700,

@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "65b0e27f427d993f954026c08ce9713eecf38b7c63a970d9bfb86bc7b194bc61",
-    "current": "65b0e27f427d993f954026c08ce9713eecf38b7c63a970d9bfb86bc7b194bc61"
+    "previous": "e8b54d8a324f69865d3f1a53933cf43864da56925ea048e1b743d87f4c3672f7",
+    "current": "e8b54d8a324f69865d3f1a53933cf43864da56925ea048e1b743d87f4c3672f7"
   },
   "fonts": [
     "dist/fonts/tristicons.ttf",

@@ -3,6 +3,7 @@ $tristicons-font-size-base:   14px !default;
 $tristicons-line-height-base: 1 !default;
 
 @font-face {
+  font-display: block;
   font-family: "<%= font_name %>";
   src: url("#{$tristicons-font-path}/<%= font_name %>.eot");
   src: url("#{$tristicons-font-path}/<%= font_name %>.eot?#iefix") format("embedded-opentype"),
